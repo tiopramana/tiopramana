@@ -73,10 +73,6 @@ https://tiopramana.netlify.app/
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiopramana&theme=tokyonight" alt="streak" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiopramana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
-</p>
-
 ---
 
 ## 📌 Featured Projects
