@@ -24,7 +24,7 @@
 ## 🌐 Portfolio
 
 🔗 Portfolio Website
-https://tiopramana.netlify.app/
+https://tiopramana.my.id/
 
 📫 Contact Me
 **[tiopramanaa@gmail.com](mailto:tiopramanaa@gmail.com)**
